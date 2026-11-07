@@ -1,5 +1,5 @@
 {
-  "name": "koishi-plugin-music-parser-all",
+  "name": "koishi-plugin-music-parser-all-plus",
   "description": "Koishi 全平台音乐解析插件：网易云 / QQ 音乐（含手机短链与分享卡片）/ 酷狗 / 酷我 / 汽水",
   "version": "0.1.4",
   "main": "lib/index.js",

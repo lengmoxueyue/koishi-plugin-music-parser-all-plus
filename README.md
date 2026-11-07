@@ -1,6 +1,6 @@
-# koishi-plugin-music-parser-all
+# koishi-plugin-music-parser-all-plus
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-music-parser-all?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-music-parser-all)
+[![npm](https://img.shields.io/npm/v/koishi-plugin-music-parser-all-plus?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-music-parser-all-plus)
 
 Koishi 全平台音乐解析插件：**网易云 / QQ 音乐（含手机短链、分享卡片）/ 酷狗 / 酷我 / 汽水**。
 自动识别聊天中的音乐链接或分享卡片，发送歌曲信息、封面、语音，并在需要时提供**完整音频文件**。
@@ -25,13 +25,13 @@ Koishi 全平台音乐解析插件：**网易云 / QQ 音乐（含手机短链�
 在「插件市场」搜索 `koishi-plugin-music-parser-all` 安装，或直接执行：
 
 ```bash
-yarn add koishi-plugin-music-parser-all
+yarn add koishi-plugin-music-parser-all-plus
 ```
 
 ### 从本仓库安装
 
 ```bash
-yarn add github:your-github-name/koishi-plugin-music-parser-all
+yarn add github:your-github-name/koishi-plugin-music-parser-all-plus
 ```
 
 安装后在「插件配置」中启用并填写配置。

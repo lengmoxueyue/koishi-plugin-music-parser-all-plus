@@ -1,4 +1,4 @@
-# koishi-plugin-music-parser-all
+# koishi-plugin-music-parser-all-plus
 
 A music-link parser plugin for [Koishi](https://koishi.chat/): **NetEase Cloud Music, QQ Music (including mobile short links and share cards), Kugou, Kuwo and Qishui**.
 
@@ -20,13 +20,13 @@ Send a music link (or share card) in chat and the bot replies with song info + c
 ## Installation
 
 ```bash
-yarn add koishi-plugin-music-parser-all
+yarn add koishi-plugin-music-parser-all-plus
 ```
 
 or from this repository:
 
 ```bash
-yarn add github:your-github-name/koishi-plugin-music-parser-all
+yarn add github:your-github-name/koishi-plugin-music-parser-all-plus
 ```
 
 ## Usage
