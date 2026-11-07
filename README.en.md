@@ -26,7 +26,7 @@ yarn add koishi-plugin-music-parser-all-plus
 or from this repository:
 
 ```bash
-yarn add github:your-github-name/koishi-plugin-music-parser-all-plus
+yarn add github:lengmoxueyue/koishi-plugin-music-parser-all-plus
 ```
 
 ## Usage

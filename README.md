@@ -31,7 +31,7 @@ yarn add koishi-plugin-music-parser-all-plus
 ### 从本仓库安装
 
 ```bash
-yarn add github:your-github-name/koishi-plugin-music-parser-all-plus
+yarn add github:lengmoxueyue/koishi-plugin-music-parser-all-plus
 ```
 
 安装后在「插件配置」中启用并填写配置。
@@ -133,6 +133,6 @@ https://qishui.douyin.com/s/xxxxxx
 MIT License
 
 Copyright (c) 2024 Minecraft-1314（原版）
-Copyright (c) 2026 your-github-name（本分支的修改）
+Copyright (c) 2026 lengmoxueyue（本分支的修改）
 
 详见 [LICENSE](./LICENSE)。

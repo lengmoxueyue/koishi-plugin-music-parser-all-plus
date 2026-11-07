@@ -53,12 +53,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-github-name/koishi-plugin-music-parser-all.git"
+    "url": "git+https://github.com/lengmoxueyue/koishi-plugin-music-parser-all-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/your-github-name/koishi-plugin-music-parser-all/issues"
+    "url": "https://github.com/lengmoxueyue/koishi-plugin-music-parser-all-plus/issues"
   },
-  "homepage": "https://github.com/your-github-name/koishi-plugin-music-parser-all#readme",
+  "homepage": "https://github.com/lengmoxueyue/koishi-plugin-music-parser-all-plus#readme",
   "engines": {
     "node": ">=16.0.0"
   }
