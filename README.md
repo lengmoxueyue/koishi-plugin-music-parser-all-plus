@@ -22,7 +22,7 @@ Koishi 全平台音乐解析插件：**网易云 / QQ 音乐（含手机短链�
 
 ### 从 Koishi 控制台
 
-在「插件市场」搜索 `koishi-plugin-music-parser-all` 安装，或直接执行：
+在「插件市场」搜索 `koishi-plugin-music-parser-all-plus` 安装，或直接执行：
 
 ```bash
 yarn add koishi-plugin-music-parser-all-plus
