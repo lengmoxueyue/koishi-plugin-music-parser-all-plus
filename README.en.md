@@ -74,11 +74,17 @@ https://qishui.douyin.com/s/xxxxxx
 
 - **QQ voice messages are limited to 60 seconds**; use the prompt or `music-file` for the full track.
 - **Kugou has no album name** in its share page, so the album line stays empty.
-- Paid / region-restricted tracks may not return an audio URL.
+- Paid / region-restricted tracks may not return an audio URL; QQ Music failures automatically try a matching free NetEase version first.
 - Uploading files requires the bot to have permission in the group; it falls back to voice/link on failure.
 - Third-party parsing endpoints may change or break at any time; update `lib/meting.js` accordingly.
 
 ## Changelog
+
+### 0.1.7
+
+- When QQ Music has no playable URL, automatically search NetEase for a matching free version and fall back to it
+- Kugou failures also try the NetEase fallback
+- Paid/region-restricted tracks can still fail when no free source exists on any platform
 
 ### 0.1.4
 
