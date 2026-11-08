@@ -108,6 +108,12 @@ https://qishui.douyin.com/s/xxxxxx
 
 ## 变更记录
 
+### 0.1.9
+
+- 支持网易云、酷狗、酷我、汽水等平台的分享卡片（music 元素）解析
+- QQ 音乐卡片兼容数字 songid，自动区分 songmid / songid
+- 卡片解析统一走各平台链接规则，减少“卡片没反应”的情况
+
 ### 0.1.8
 
 - 支持 QQ 音乐分享卡片（music / json / ark 元素）解析，修复卡片消息无反应

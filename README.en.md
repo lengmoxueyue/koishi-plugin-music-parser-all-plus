@@ -80,6 +80,12 @@ https://qishui.douyin.com/s/xxxxxx
 
 ## Changelog
 
+### 0.1.9
+
+- Parse share cards (music elements) from NetEase, Kugou, Kuwo and Qishui
+- QQ Music cards now handle numeric songid and songmid correctly
+- Share cards are normalized into the same platform link rules
+
 ### 0.1.8
 
 - Parse QQ Music share cards (music / json / ark elements), fixing no response to card messages
