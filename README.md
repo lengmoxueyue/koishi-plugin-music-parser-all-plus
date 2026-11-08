@@ -112,6 +112,10 @@ https://qishui.douyin.com/s/xxxxxx
 
 ## 变更记录
 
+### 0.2.1
+
+- 新增 `sendFullFile` 配置：解析到完整音频时直接发送 mp3 文件，不再先发 60 秒语音并追问；默认关闭
+
 ### 0.2.0
 
 - 支持通过 `METING_API` 环境变量指向自建 Meting API
