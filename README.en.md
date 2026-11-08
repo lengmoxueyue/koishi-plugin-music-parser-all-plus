@@ -80,6 +80,10 @@ https://qishui.douyin.com/s/xxxxxx
 
 ## Changelog
 
+### 0.1.8
+
+- Parse QQ Music share cards (music / json / ark elements), fixing no response to card messages
+
 ### 0.1.7
 
 - When QQ Music has no playable URL, automatically search NetEase for a matching free version and fall back to it
