@@ -78,7 +78,17 @@ https://qishui.douyin.com/s/xxxxxx
 - Uploading files requires the bot to have permission in the group; it falls back to voice/link on failure.
 - Third-party parsing endpoints may change or break at any time; update `lib/meting.js` accordingly.
 
+## Self-hosted Meting API
+
+Set `METING_API=http://127.0.0.1:3030/meting/` to use your own Meting service (the public instance is used by default). Paid tracks still require platform cookies on the Meting server.
+
 ## Changelog
+
+### 0.2.0
+
+- Support a self-hosted Meting API via the `METING_API` environment variable
+- Detect Kugou 60-second previews and label them instead of treating them as full files
+- De-duplicate repeated links in one share by song name + artist
 
 ### 0.1.9
 
