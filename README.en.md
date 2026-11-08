@@ -84,6 +84,10 @@ Set `METING_API=http://127.0.0.1:3030/meting/` to use your own Meting service (t
 
 ## Changelog
 
+### 0.2.2
+
+- `sendFullFile` now keeps the voice message and sends the full mp3 file after it
+
 ### 0.2.1
 
 - New `sendFullFile` option: when a full audio URL is available, send the mp3 file directly instead of a 60-second voice preview and follow-up prompt (off by default)

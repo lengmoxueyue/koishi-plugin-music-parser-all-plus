@@ -112,6 +112,10 @@ https://qishui.douyin.com/s/xxxxxx
 
 ## 变更记录
 
+### 0.2.2
+
+- `sendFullFile` 现在会保留语音，并在语音后追发完整 mp3 文件
+
 ### 0.2.1
 
 - 新增 `sendFullFile` 配置：解析到完整音频时直接发送 mp3 文件，不再先发 60 秒语音并追问；默认关闭
